@@ -4,6 +4,12 @@
 
 ---
 
+## Demo Video 🎥
+
+[![Watch the video](https://img.youtube.com/vi/ATB6_4wc_fk/0.jpg)](https://youtu.be/ATB6_4wc_fk)
+
+---
+
 ## Features
 
 - **Dynamic UI**: Built with React 19 for a smooth and engaging experience.
